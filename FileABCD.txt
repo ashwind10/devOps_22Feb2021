@@ -1,0 +1,15 @@
+This is demo file to upload.
+
+*******************************
+git init-----------Create an empty Git repository
+
+git pull ---------- pulling the project
+
+git add * --------------adding the project in a local repo
+
+git commit -m "myproject" -------------saving in a local repo
+
+git push https://github.com/sanjaydegaonkar/DevOps_22_Feb_2021.git master
+
+ github userid -
+password
